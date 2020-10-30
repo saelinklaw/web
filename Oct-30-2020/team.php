@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="icon" href="img/fav-icon.png" type="image/x-icon" />
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>世宁律师事务所 SAELINK LAW</title>
+
+        <!-- Icon css link -->
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="vendors/elegant-icon/style.css" rel="stylesheet">
+        <link href="vendors/themify-icon/themify-icons.css" rel="stylesheet">
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+
+        <!-- Rev slider css -->
+        <link href="vendors/revolution/css/settings.css" rel="stylesheet">
+        <link href="vendors/revolution/css/layers.css" rel="stylesheet">
+        <link href="vendors/revolution/css/navigation.css" rel="stylesheet">
+        <link href="vendors/animate-css/animate.css" rel="stylesheet">
+
+        <!-- Extra plugin css -->
+        <link href="vendors/owl-carousel/owl.carousel.min.css" rel="stylesheet">
+
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/responsive.css" rel="stylesheet">
+
+        <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+        <![endif]-->
+    </head>
+    <body>
+		
+		
+
+				
+<?php include("owa.php"); ?>
+		
+
+
+
+
+
+        <!--================Search Area =================-->
+<?php include("search-html.php"); ?>
+        <!--================End Search Area =================-->
+
+        <!--================Header Menu Area =================-->
+        <header class="main_menu_area">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                <a class="navbar-brand" href="#"><img src="img/logo.png" alt=""></a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <li class="nav-item"><a class="nav-link" href="index.html">首页</a></li>
+                        <li class="nav-item"><a class="nav-link" href="aboutus.html">关于世宁</a></li>
+                        <li class="nav-item"><a class="nav-link" href="applications.html">服务领域</a></li>
+                        <li class="nav-item active"><a class="nav-link" href="prof-all.html">专业人员</a></li>
+                        <li class="nav-item"><a class="nav-link" href="newscomments.html">世宁动态</a></li>
+                        <li class="nav-item"><a class="nav-link" href="recruits.html">诚聘英才</a></li>
+                        <li class="nav-item"><a class="nav-link" href="contact-us.html">联系我们</a></li>
+                    </ul>
+                    <ul class="navbar-nav justify-content-end">
+                        <li><a href="#"><i class="icon_search"></i></a></li>
+                    </ul>
+                    <ul class="navbar-nav justify-content-end2">
+                        <li><a href="index.html">中文</a></li>
+                        <li>|</li>
+                        <li><a href="./en/index.html" onclick="_blank">English</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <!--================End Header Menu Area =================-->
+
+        <!--================Banner Area =================-->
+        <section class="banner_area">
+            <div class="container">
+                <div class="banner_text_inner">
+                    <h4></h4>
+                </div>
+            </div>
+        </section>
+        <!--================End Banner Area =================-->
+
+        <!--================Professionals Area =================-->
+        <section class="static_area">
+            <div class="container">
+                <div class="static_inner">
+                    <div class="row">
+
+                      <div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+                          <div class="static_main_content">
+                            <div class="static_text2">
+                                    <h2>李楠</h2>
+                                    <p><a>高级顾问</a></p>
+                                    <br>
+                                </div>
+                                <div class="people_img">
+                  		              <img class="img-fluid" width="180" height="220" src="img/people/NanLi.jpg"/>
+                                    <br>
+                                </div>
+                                <div class="people_text">
+                                    <br>
+                                    <h5>联系方式</5>
+                                    <p><a href="tel">电话：+86-10-6526-5396</a></p>
+                                    <p><a href="fax">传真：+86-10-6526-5503</a></p>
+                                    <p><a href="mailto">电邮：nli@saelinklaw.com</a></p>
+                                    <br>
+                                </div>
+
+                              <div class="people_text">
+                                  <h5>教育背景</h5>
+                                  <p><a>中国科学院研究生院（2005年计算机应用技术工学硕士）；清华大学（2002年自动化专业工学学士）；美国马歇尔法学院知识产权专业培训认证；中国政法大学民商法学专业培训认证</a></p>
+                                  <br>
+                              </div>
+
+                            <div class="people_text">
+                                <h5>执业资格</h5>
+                                <p>专利代理人</a></p>
+                                <br>
+                                <br>
+                            </div>
+                          </div>
+                      </div>
+
+                        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+                            <div class="static_main_content">
+                              <div class="static_text2">
+                                <h3>个人履历</h3>
+                                <p></p>
+                              </div>
+                              <div class="container">
+                                <div class="row">
+                                  <div class="col-lg-7">
+                                    <div class="static_text">
+                                      <p> 李楠女士具有国家知识产权局多部门、十余年的主任级别工作经验，获聘为首批北京市知识产权局行政执法技术分析师、首批北京知识产权法院人民陪审员。</p>
+                                      <br>
+                                      <p> 自2005年起任职于国家知识产权局专利审查协作北京中心，致力于专利审查工作，领域主要覆盖互联网、IT软硬件、电子商务、电信、网络通讯、区块链、人工智能、大数据、医疗器械、高端制造等。曾任专利审查协作北京中心质量控制室主任，负责审查案件的质量检查、疑难案件分析、审查标准统一化、重点投诉案件的公众答复等工作。在专利服务部，对接企业、高等院校和各地知识产权局，负责专利服务项目的统筹管理。曾参与广东“物联网产业创新”项目、中国“标准动车组自主知识产权研发与规划”等多个国家级项目。</p>
+                                      <br>
+                                      <p> 作为技术专家类人民陪审员和技术分析师，曾先后多次参与计算机、通信领域专利诉讼及行政执法案件，其中不乏具有重要社会和法律影响的重大案件，如苹果公司诉上海智臻公司专利无效纠纷案（涉及苹果“Siri”技术）、华为与中兴专利纠纷中的部分专利无效案件、呤云科技诉摩拜单车专利侵权行政调处类案件（首例共享单车技术侵权案）、细胞基因公司专利复审行政案件（涉及实验数据充分公开标准）等。</p>
+                                      <br>
+                                      <p> 李楠女士获聘为国家知识产权局专利代理人培训教师，负责国家知识产权局专利侵权判定及规避课程开发。先后承担国家知识产权局专利代理人培训（电学领域申请文件撰写）、国家知识产权局知识产权运营进阶培训；承担专利审查协作北京中心新审查员培训、食药监局创新医疗器械专利课程、清华大学专利普及课程等。</p>
+                                      <br>
+                                      <p>李楠女士出版了三部合著：《发明专利保护客体典型案例评析》、《专利检索策略及应用》、《乔布斯的发明世界》。还先后参与了13项课题研究，发表论文10余篇。</p>
+                                      <br>
+                                      <br>
+                                    </div>
+                                    <div class="static_text2">
+                                      <h5>代表性案例</h5>
+                                      <br>
+                                      <p><a>代表高德地图公司应对专利行政处理程序</a></p>
+                                        <p><a>代表深圳如一公司应对专利行政处理程序</a></p>
+                                        <p><a>代表国内某著名家电企业处理专利无效宣告程序</a></p>
+                                        <p><a>代表德国某全球著名环保技术企业在中国的专利维权、知识产权许可</a></p>
+                                        <p><a>代表某新加坡医疗器械公司对竞争对手的专利进行阻击</a></p>
+                                        <p><a>为阿里巴巴集团处理平台专利诉讼提供支持等</a></p>
+                                      <br>
+                                      <br>
+                                    </div>
+                                  </div>
+                                  <div class="col-lg-1">
+                                  </div>
+                                  <div class="col-lg-3">
+                                    <div class="static_text2">
+                                      <p><br></p>
+                                        <h5>专业领域</h5>
+                                        <ul>
+                                          <li><a href="patent.html">专利无效程序及诉讼</a></li>
+                                          <li><a href="patent.html">专利复审程序及诉讼</a></li>
+                                          <li><a href="patent.html">专利侵权诉讼</a></li>
+                                          <li><a href="patent.html">专利查处及后续行政诉讼</a></li>
+                                          <li><a href="patent.html">专利稳定性/FTO分析</a></li>
+                                        </ul>
+                                        <br>
+                                    </div>
+                                    <div class="static_text2">
+                                        <h5>语言</h5>
+                                        <p><a>英语</a>、<a>普通话</a></p>
+                                        <br>
+                                    </div>
+
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--================End Professionals Area =================-->
+
+        <!--================Footer Area =================-->
+        <footer class="footer_area">
+            <div class="footer_widgets_area">
+                <div class="container">
+                    <div class="f_widgets_inner row">
+                        <div class="col-lg-6 col-md-12">
+                          <div class="f_w_title">
+                            <h3>世宁律师事务所</h3>
+                            <p>北京市建国门南大街7号A座19层 | 010-65265396 | info@saelinklaw.com</p>
+                          </div>
+
+                        </div>
+                        <div class="col-lg-2 col-md-4">
+                                <div class="f_w_title">
+                                </div>
+
+                        </div>
+                        <div class="col-lg-2 col-md-4">
+                                <div class="f_w_title">
+                                </div>
+
+                        </div>
+                        <div class="col-lg-2 col-md-4">
+                          <div class="f_w_social">
+                            <div class="static_social">
+							<ul>
+                                  <li><a href="https://www.linkedin.com/in/saelink-law-49507a18a"><i class="fa fa-linkedin"></i></a></li>
+                                  <li><a href="wechatqr.php"><i class="fa fa-wechat"></i></a></li>
+                                  <li><a href="https://m.weibo.cn/u/7209271739"><i class="fa fa-weibo"></i></a></li>
+                              </ul>
+                            </div>
+                         </div>
+
+                        </div>
+
+                </div>
+            </div>
+          </div>
+            <div class="copy_right_area">
+                <div class="container">
+                    <div class="float-md-left">
+                        <h5>©SAELINK LAW 2020 版权所有<a href="http://beian.miit.gov.cn" target="_blank">&nbsp 京ICP备19055298号-1</a></h5>
+                    </div>
+                    <div class="float-md-right">
+                        <ul class="nav">
+                          <li class="nav-item">
+                                <a class="nav-link" href="#">隐私政策</a>
+                          </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">社会责任</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">法律声明</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">网站地图</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--================End Footer Area =================-->
+
+
+
+
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="js/jquery-3.2.1.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Rev slider js -->
+        <script src="vendors/revolution/js/jquery.themepunch.tools.min.js"></script>
+        <script src="vendors/revolution/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.video.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+        <script src="vendors/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+        <!-- Extra plugin css -->
+        <script src="vendors/counterup/jquery.waypoints.min.js"></script>
+        <script src="vendors/counterup/jquery.counterup.min.js"></script>
+        <script src="vendors/counterup/apear.js"></script>
+        <script src="vendors/counterup/countto.js"></script>
+        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+        <script src="vendors/parallaxer/jquery.parallax-1.1.3.js"></script>
+        <!--Tweets-->
+        <script src="vendors/tweet/tweetie.min.js"></script>
+        <script src="vendors/tweet/script.js"></script>
+
+        <script src="js/theme.js"></script>
+    </body>
+</html>
